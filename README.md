@@ -1,4 +1,4 @@
-## Threa_TCP_Check CLI - Multiple Hosts using Rust
+## Thread_TCP_Check CLI - Multiple Hosts using Rust
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
