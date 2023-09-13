@@ -25,7 +25,6 @@ fn main() -> Result<(), Error>{
                 let ip_address = line.unwrap();
                 s.spawn( || {
                    socket_check(ip_address, tcp_port);
-                   //thread::sleep(Duration::from_secs(3));
              });
             }
         });
