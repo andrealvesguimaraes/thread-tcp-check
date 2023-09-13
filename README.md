@@ -22,8 +22,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ## Build
 
 ```sh
-git clone https://github.com/andrealvesguimaraes/thread_tcp_check.git
-cd thread_tcp_check
+git clone https://github.com/andrealvesguimaraes/thread-tcp-check.git
+cd thread-tcp-check
 cargo build --release
 ```
 
