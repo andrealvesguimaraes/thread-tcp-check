@@ -11,6 +11,9 @@
   </ol>
 </details>
 
+## About
+Using Rust to Build CLI Application to Check Socket Connection of Multiple Hosts by Thread Mode 
+
 ## Installing Rust
 If you’re running macOS, Linux, or another Unix-like OS.
 To download Rustup and install Rust, run the following in your terminal, then follow the on-screen instructions.
